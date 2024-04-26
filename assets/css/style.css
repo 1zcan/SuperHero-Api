@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing:content-box;
+  font-family: "Bangers", sans-serif;
+}
+
+/* NavBar */
+.navbar {
+  background-color:rgb(24, 24, 24);
+}
+
+.navbar-logo {
+  width: 3rem;
+  height: 3rem;
+}
+
+/* Encuentra tu heroe*/
+
+.hero {
+  text-align: center;
+  padding: 1rem;
+}
+
+.hero-title {
+  font-weight: 600;
+}
+
+.hero-img {
+  height: 24rem;
+}
+
+
+#form {
+  padding: 2rem;
+}
+
+/* Contenedor de la carta y el grafico*/  
+#main-container {
+  max-width: 100%;
+}
+
+/* Gráfico */
+
+#chartContainer {
+  width: 50%;
+  height: 40%;
+  margin: 3rem;
+}
+
+/* Tarjeta del SuperHeroe */
+#hero-cards {
+  width: 50%;
+}
+.card {
+  margin: 2rem;
+}
+
+.superhero-image {
+  height: 30rem;
+  width: 15rem;
+  margin:1rem;
+  border-radius: 6px;
+}
+
+.card-header {
+  font-weight: 800;
+  font-size: x-large;
+}
+
+.list-group {
+  width: 50%;
+}
